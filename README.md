@@ -7,7 +7,7 @@ Custom User Snippets are feature of VSCode that associates code templates with d
 For more information on the creation and usage of Custom User Snippets, see the official [Snippets in Visual Studio Code]()
 documentation.
 
-<br/><br/>
+<br/>
 
 ## Creating Custom User Snippets
 
@@ -71,3 +71,14 @@ documentation.
         }
     }    
     ```
+
+7. Test your snippet by opening a new file/document, typing the prefix trigger, and hitting the <TAB> key to insert the snippet contents.
+
+
+    ![](./media/snippet-invocation-example.gif)
+
+<br/>
+
+## Reference Documentation
+* User Defined Snippets in VSCode: https://code.visualstudio.com/docs/editor/userdefinedsnippets
+* Snippet Generator App: https://snippet-generator.app/
