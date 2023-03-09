@@ -8,7 +8,7 @@ This snippet generates boilerplate code for creating a parameterized Python3 scr
 
 This snippet's dependencies are an up-to-date version of VSCode and the Python3 runtime:
 
-* Install VSCode: https://https://code.visualstudio.com
+* Install VSCode: https://code.visualstudio.com
 * Python 3: https://realpython.com/installing-python/
 
 <br/><br/>
