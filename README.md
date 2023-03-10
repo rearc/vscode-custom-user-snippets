@@ -12,7 +12,12 @@ documentation.
 <br/>
 
 ## Getting Started
-To use the snippets from the collection, select the snippets listed under the repository's [`snippets/`](./snippets/) directory and follow the included documentation for installation and use.
+To use the snippets from the collection, select the snippets listed under the repository's [`snippets/`](./snippets/) directory or the list below, and follow the associated documentation for installation and use.
+
+|Snippet|
+|---
+|[Python3 Parameterized Script](./snippets/python3-parameterized-script/README.md)|
+|[Simple README](./snippets/markdown-basic-readme/README.md)
 
 <br/>
 
