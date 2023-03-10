@@ -11,6 +11,11 @@ documentation.
 
 <br/>
 
+## Getting Started
+To use the snippets from the collection, select the snippets listed under the repository's [`snippets/`](./snippets/) directory and follow the included documentation for installation and use.
+
+<br/>
+
 ## Creating Custom User Snippets
 
 1. If you don't already have it installed, install the Visual Studio Code editor: https://code.visualstudio.com
