@@ -1,10 +1,12 @@
 # VSCode Custom User Snippets
 
+![](https://shields.io./github/license/rearc/vscode-custom-user-snippets)
+
 This repository hosts a collection of useful custom user snippets for Visual Studio Code.
 
 Custom User Snippets are feature of VSCode that associates code templates with designated aliases (*prefix tab triggers*). Upon invocation of the snippet's alias the snippet's code is inserted at the cursor's location within the editor's current active file.
 
-For more information on the creation and usage of Custom User Snippets, see the official [Snippets in Visual Studio Code]()
+For more information on the creation and usage of Custom User Snippets, see the official [Snippets in Visual Studio Code](ttps://code.visualstudio.com/docs/editor/userdefinedsnippets)
 documentation.
 
 <br/>
@@ -62,6 +64,11 @@ documentation.
 
 
     ![](./media/snippet-invocation-example.gif)
+
+<br/>
+
+## Contributing
+For contributing new custom user snippets to those found here, see the [CONTRIBUTING](./.github/CONTRIBUTING.md) documentation.
 
 <br/>
 
