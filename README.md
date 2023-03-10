@@ -1,6 +1,6 @@
 # VSCode Custom User Snippets
 
-![](https://shields.io./github/license/rearc/vscode-custom-user-snippets)
+[![](https://shields.io./github/license/rearc/vscode-custom-user-snippets)](https://github.com/rearc/vscode-custom-user-snippets/blob/main/LICENSE)
 
 This repository hosts a collection of useful custom user snippets for Visual Studio Code.
 
