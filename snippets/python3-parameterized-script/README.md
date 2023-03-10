@@ -97,6 +97,10 @@ Example:
 
 You can now test the snippet by creating any file in VSCode with the `.py` extension, typing the `pyscript` prefix trigger, and hitting `<TAB>` to insert your snippet's code at the current position of the cursor. Once the snippet has populated code into your file it will immediately reposition your cursor at the snippet's first placeholder position. Advance through each placeholder by entering content and/or hitting the `<TAB>` key.
 
+<br/>
+
+![](./media/py3-parameterized-script-snippet-3.gif)
+
 <br/><br/>
 
 ## Reference Documentation
