@@ -14,10 +14,10 @@ documentation.
 ## Getting Started
 To use the snippets from the collection, select the snippets listed under the repository's [`snippets/`](./snippets/) directory or the list below, and follow the associated documentation for installation and use.
 
-|Snippet|
-|---
-|[Python3 Parameterized Script](./snippets/python3-parameterized-script/README.md)|
-|[Simple README](./snippets/markdown-basic-readme/README.md)
+|Snippet|Description|
+|---|:--|
+|[Python3 Parameterized Script](./snippets/python3-parameterized-script/README.md)| Provides boilerplate code for creating a parameterized script using argparse. Provides a default logger tied to an argparse argument for setting log level|
+|[Simple README](./snippets/markdown-basic-readme/README.md)| Provides boilerplate code for quickly generating a simple generic README for documentation purposes.|
 
 <br/>
 
