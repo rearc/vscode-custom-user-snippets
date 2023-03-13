@@ -13,7 +13,7 @@ This snippet's dependencies are an up-to-date version of the VSCode IDE:
 
 ## Usage
 
-Using the snippet requires copying the contents of the snippet.nson file and pasting them into either the `markdown.json` snippet configuration file, or the global snippets configuration file in VSCode. The user snippets configuration files are accessible via VScode `Preferences` under the `Configure User Snippets` option.
+Using the snippet requires copying the contents of the snippet.json file and pasting them into either the `markdown.json` snippet configuration file, or the global snippets configuration file in VSCode. The user snippets configuration files are accessible via VScode `Preferences` under the `Configure User Snippets` option.
 
 <br/>
 
